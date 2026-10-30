@@ -23,7 +23,7 @@ My production work spans high-concurrency LLM serving on Kubernetes via <strong>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/nijjil-narula)
 [![Email](https://img.shields.io/badge/Email-nijjilnarulas%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0D1117)](mailto:nijjilnarulas@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nijjilnarula-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/nijjilnarula)
+[![GitHub](https://img.shields.io/badge/GitHub-Nijjil--Narula-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Nijjil-Narula)
 
 </div>
 
@@ -148,12 +148,12 @@ My production work spans high-concurrency LLM serving on Kubernetes via <strong>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nijjilnarula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijjilnarula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nijjil-Narula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nijjil-Narula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" alt="Top Languages" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nijjilnarula&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=C9D1D9" alt="GitHub Streak" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nijjil-Narula&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=C9D1D9" alt="GitHub Streak" width="70%"/>
 
 </div>
 
@@ -259,7 +259,7 @@ Fine-tuned transformer **Bi-Encoders** (Multiple Negatives Ranking Loss) achievi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/nijjil-narula)
 [![Email](https://img.shields.io/badge/Email-nijjilnarulas%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0D1117)](mailto:nijjilnarulas@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nijjilnarula-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/nijjilnarula)
+[![GitHub](https://img.shields.io/badge/GitHub-Nijjil--Narula-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Nijjil-Narula)
 
 <br/>
 
@@ -269,8 +269,8 @@ Fine-tuned transformer **Bi-Encoders** (Multiple Negatives Ranking Loss) achievi
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nijjilnarula&style=for-the-badge&color=FF6B6B&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Nijjil-Narula&style=for-the-badge&color=FF6B6B&labelColor=0D1117)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/nijjilnarula?style=for-the-badge&logo=github&logoColor=white&color=4ECDC4&labelColor=0D1117&label=Followers)
+![Followers](https://img.shields.io/github/followers/Nijjil-Narula?style=for-the-badge&logo=github&logoColor=white&color=4ECDC4&labelColor=0D1117&label=Followers)
 
 </div>
